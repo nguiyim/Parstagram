@@ -26,6 +26,8 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
                 configuration.server = "https://protected-chamber-51977.herokuapp.com/parse"
             })
         )
+        
+        
         return true
     }
     // MARK: UISceneSession Lifecycle
